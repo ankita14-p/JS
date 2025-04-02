@@ -1,0 +1,6 @@
+{
+  "name":"Annie",
+  "age":20,
+  "subscribed":true,
+  "hobbies":["reading","working","sleeping"]
+}
