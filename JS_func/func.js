@@ -23,3 +23,12 @@ const message = function (username){
     
 }
 message("John")
+
+//Arrow Function
+greet=(user)=>{
+    return `I am arrow function ${user}`
+    
+}
+console.log(greet("Huxn"));
+
+
